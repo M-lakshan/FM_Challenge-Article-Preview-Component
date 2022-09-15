@@ -44,8 +44,8 @@
 
 ### Links
 
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-article-preview-component-using-html-css-and-js-F5nVdm99ma)
-- Live Site URL: [live site URL](https://m-lakshan.github.io/FM_Challenge-Article-Preview-Component/)
+- Solution URL: [Frontend-Mentor Solution Page](https://www.frontendmentor.io/solutions/responsive-article-preview-component-using-html-css-and-js-F5nVdm99ma)
+- Live Site URL: [GitHub Pages](https://m-lakshan.github.io/FM_Challenge-Article-Preview-Component/)
 
 ## My process
 
